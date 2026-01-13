@@ -1,0 +1,13 @@
+# Data files - don't commit
+host.txt
+ips.txt
+subnets_to_scan.txt
+discovered_ips.txt
+stealth_results_*.txt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
